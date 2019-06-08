@@ -16,7 +16,7 @@ namespace Number4
         static double f(int i)
         {
             double res;
-            res = 1 / Math.Pow(i, 8);
+            res = 1 / Math.Pow(i, 2);
             return res;
         }
         /// <summary>
