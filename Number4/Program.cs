@@ -25,6 +25,7 @@ namespace Number4
         /// <param name="args"></param>
         static void Main(string[] args)
         {
+            // Эпсилон
             double e;
             Console.WriteLine("Введите заданную точность e ");
             string inp;
